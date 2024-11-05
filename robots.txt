@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://inerieku.github.io/AUr/sitemap_index.txt
+Sitemap: https://inerieku.github.io/VJj/sitemap_index.txt
+Sitemap: https://inerieku.github.io/bUH/sitemap_index.txt
+Sitemap: https://inerieku.github.io/gsm/sitemap_index.txt
